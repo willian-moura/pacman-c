@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491005225 source:c:\users\willian\dropbox\projetocb\pac man\main.c
+	<stdio.h>
+	<conio.c>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
